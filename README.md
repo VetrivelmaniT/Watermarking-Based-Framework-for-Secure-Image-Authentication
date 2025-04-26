@@ -24,7 +24,7 @@ project/ │ ├── input/ # Folder for input images ├── output/ # Stor
 
 1. Clone this repository:
 bash
-   git clone https://github.com/yourusername/watermark-auth-framework.git
+   git clone https://github.com/VetrivelmaniT/Watermarking-Based-Framework-for-Secure-Image-Authentication
    cd watermark-auth-framework
 Install dependencies:
 
